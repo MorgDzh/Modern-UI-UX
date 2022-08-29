@@ -1,4 +1,5 @@
 import React from 'react'
+import { CTA, Brand, Navbar } from './components';
 
 const App = () => {
   return (
